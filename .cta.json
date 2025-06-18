@@ -1,0 +1,23 @@
+{
+  "projectName": "ReactStack Boilerplate",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "npm",
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "biome",
+    "convex",
+    "form",
+    "netlify",
+    "sentry",
+    "shadcn",
+    "start",
+    "store",
+    "table",
+    "tanstack-query",
+    "tanchat"
+  ]
+}

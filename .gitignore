@@ -8,3 +8,6 @@ count.txt
 .output
 .vinxi
 count.txt
+
+# Local Netlify folder
+.netlify
